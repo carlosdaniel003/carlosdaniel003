@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/06-profile-cover.png" width="100%" alt="Carlos Daniel — Software Industrial e Inteligência Artificial"/>
+<img src="docs/images/07-portfolio-preview.png" width="100%" alt="Carlos Daniel — Software Industrial e Inteligência Artificial"/>
 
 <br>
 
